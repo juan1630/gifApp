@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente GifItem Debe de hacer match con el  snapshot 1`] = `
+<div>
+  <div
+    class="card-gifs"
+  >
+    <img
+      alt="Attack on titan"
+      src="https://www.attack.com/"
+    />
+    <p>
+       
+      Attack on titan
+       
+    </p>
+  </div>
+</div>
+`;
